@@ -1,8 +1,8 @@
 # Project 
 This is my Project
 
-# My Name
-Govinda Kumar
+# Name
+My self Govinda Kumar
 
 # Course
-BCA(AI)
+Bachelors Computer of Application (Artificial Intelligence)
